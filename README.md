@@ -1,6 +1,6 @@
 - 👋 Hi, I’m ISHIMWE Valentin
 - 👀 I’m interested in web development
-- 💞️ I’m looking to collaborate on HTML, CSS, JS, React.js, PHP Laravel
+- 💞️ I’m looking to collaborate on HTML, CSS, React.js, Python, Django, AWS, PHP, PWAS
 - 📫 How to reach me ishimwedeveloper@gmail.com
 
 <!---
