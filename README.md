@@ -1,6 +1,6 @@
 - 👋 Hi, I’m ISHIMWE Valentin
 - 👀 I’m interested in web development
-- 💞️ I’m looking to collaborate on HTML, CSS, React.js, Python, Django, AWS, PHP, PWAs
+- 💞️ I’m looking to collaborate on HTML, CSS, React.js, SQL, node.js, firebase, Python, Django, AWS, PHP, PWAs, and so on..
 - 📫 How to reach me https://www.linkedin.com/in/ishimwevalentin/
 
 <!---
